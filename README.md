@@ -1,2 +1,2 @@
-# Big_Data_for_Business_Decisions
+# Big Data for Business Decisions
 Big Data Course Projects
