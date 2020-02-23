@@ -9,3 +9,10 @@ Many small online retailers and new entrants to the online retail sector are kee
 Data Description:
 This data set is cited from uci machine learning datasets which can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/00502/online_retail_II.xlsx
 This Online Retail data set ued in this model contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2010 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
+
+
+## Credit Card Default Classification
+
+Data Description:
+This data set is cited from uci machine learning datasets which can be downloaded from https://archive.ics.uci.edu/ml/machine-learning-databases/00350/default%20of%20credit%20card%20clients.xls
+This dataset contains information on default peyments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
