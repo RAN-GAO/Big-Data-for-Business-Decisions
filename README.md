@@ -1,6 +1,6 @@
 # Big Data for Business Decisions
-Big Data Course Projects
-## Online Retail:
+
+## Online Retail Clustering:
 Data mining for the online retail industry: A case study of RFM model-based customer clustering analysis using K-means
 
 Introduction:
